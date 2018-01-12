@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringTest.iml" filepath="$PROJECT_DIR$/SpringTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiGateway/apiGateway.iml" filepath="$PROJECT_DIR$/apiGateway/apiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case1/case1.iml" filepath="$PROJECT_DIR$/case1/case1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case2/case2.iml" filepath="$PROJECT_DIR$/case2/case2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case3/case3.iml" filepath="$PROJECT_DIR$/case3/case3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case4/case4.iml" filepath="$PROJECT_DIR$/case4/case4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case5/case5.iml" filepath="$PROJECT_DIR$/case5/case5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case6/case6.iml" filepath="$PROJECT_DIR$/case6/case6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case7/case7.iml" filepath="$PROJECT_DIR$/case7/case7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case8/case8.iml" filepath="$PROJECT_DIR$/case8/case8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case9/case9.iml" filepath="$PROJECT_DIR$/case9/case9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configServer/configServer.iml" filepath="$PROJECT_DIR$/configServer/configServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feignEureka/feignEureka.iml" filepath="$PROJECT_DIR$/feignEureka/feignEureka.iml" />
+    </modules>
+  </component>
+</project>

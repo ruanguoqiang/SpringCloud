@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apiGateway" />
+        <module name="case1" />
+        <module name="case2" />
+        <module name="case3" />
+        <module name="case4" />
+        <module name="case5" />
+        <module name="case6" />
+        <module name="case7" />
+        <module name="case8" />
+        <module name="case9" />
+        <module name="configclient" />
+        <module name="configServer" />
+        <module name="feignEureka" />
+        <module name="SpringTest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apiGateway" target="1.8" />
+      <module name="case1" target="1.8" />
+      <module name="case2" target="1.8" />
+      <module name="case3" target="1.8" />
+      <module name="case4" target="1.8" />
+      <module name="case5" target="1.8" />
+      <module name="case6" target="1.8" />
+      <module name="case7" target="1.8" />
+      <module name="case8" target="1.8" />
+      <module name="case9" target="1.8" />
+      <module name="configclient" target="1.8" />
+      <module name="configServer" target="1.8" />
+      <module name="feignEureka" target="1.8" />
+      <module name="SpringTest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

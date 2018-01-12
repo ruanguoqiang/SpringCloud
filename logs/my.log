@@ -1,0 +1,6 @@
+2018-01-04 14:33:43,169  INFO Application:48 ---- Starting Application on MICROSOFT with PID 12728 (F:\SpringTest\case4\target\classes started by Administrator in F:\SpringTest)
+2018-01-04 14:33:43,174 DEBUG Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-01-04 14:33:43,177  INFO Application:670 ---- The following profiles are active: test
+2018-01-04 14:35:56,813  INFO Application:48 ---- Starting Application on MICROSOFT with PID 11812 (F:\SpringTest\case4\target\classes started by Administrator in F:\SpringTest)
+2018-01-04 14:35:56,817 DEBUG Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2018-01-04 14:35:56,818  INFO Application:670 ---- The following profiles are active: test
